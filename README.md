@@ -182,14 +182,6 @@ for more clear view, click here
 
 <br><br> 
 
-**To get implemented part of above queries  and other details, you can mail me: [abhinav221sk@gmail.com](mailto:pes1ug23cs840@pesu.pes.edu).<br> For any personalized and expedited support). (please do mention subject as this repo name). thanks**<br>
-
-#### Contributors
-[SAURABH KISHOR](https://github.com/Saurabh-pec) 
-
-##### Want to support my coding journey? Buy me a coffee and keep the code flowing! [Buy me a Coffee!](https://www.buymeacoffee.com/saurabhkishor ).
-Thanks and I highly appreciate your support.
-
 
 
 
